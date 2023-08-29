@@ -1,7 +1,7 @@
 # Banco de Dados com SQL 
 
 ### Case: BD para registro de clientes, pedidos, fornecedores e produtos de uma loja.
-Projeto para prática de linguagem de manipulação de dados (DDL)
+Projeto para prática de manipulação de dados, DDL e DML.
 
 ![PaUciGyT](https://github.com/nayara-lucia/db-loja/assets/126920974/11053628-6516-4d6a-a0ad-8b1808a462d9)
 
@@ -19,6 +19,8 @@ Projeto para prática de linguagem de manipulação de dados (DDL)
 - Drop
 - Alter
 - Update
+- Insert
+- Delete
 
 <hr>
 
